@@ -1,0 +1,21 @@
+C:\Users\nathe\source\repos\Login Retry\bin\Debug\net6.0-windows\Login Retry.exe
+C:\Users\nathe\source\repos\Login Retry\bin\Debug\net6.0-windows\Login Retry.deps.json
+C:\Users\nathe\source\repos\Login Retry\bin\Debug\net6.0-windows\Login Retry.runtimeconfig.json
+C:\Users\nathe\source\repos\Login Retry\bin\Debug\net6.0-windows\Login Retry.dll
+C:\Users\nathe\source\repos\Login Retry\bin\Debug\net6.0-windows\Login Retry.pdb
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry.csproj.AssemblyReference.cache
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry_MarkupCompile.cache
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry_MarkupCompile.lref
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry.g.resources
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry.AssemblyInfoInputs.cache
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry.AssemblyInfo.cs
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry.csproj.CoreCompileInputs.cache
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry.dll
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\refint\Login Retry.dll
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry.pdb
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\Login Retry.genruntimeconfig.cache
+C:\Users\nathe\source\repos\Login Retry\obj\Debug\net6.0-windows\ref\Login Retry.dll
